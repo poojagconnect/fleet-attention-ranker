@@ -1,0 +1,10 @@
+vehicle,score,level,reason,action
+V004 (Toyota Camry),65,Critical,5 day(s) overdue for return; no signal for 52 hours,Contact renter; start recovery workflow if no response
+V017 (Ford Escape),35,High,fuel fell 22% with no trip,Review for fuel loss or siphoning
+V023 (Toyota Camry),34,High,3 active warning code(s); service overdue (240 days),Schedule inspection before next rental
+V029 (Toyota Camry),33,High,no signal for 40 hours; 1 active warning code(s),Confirm last known location; check connectivity
+V019 (Chevrolet Malibu),30.0,High,fuel fell 11% with no trip; 1 day(s) overdue for return,Review for fuel loss or siphoning
+V011 (Nissan Rogue),28.0,Watch,2 day(s) overdue for return; 1 active warning code(s),Contact renter; start recovery workflow if no response
+V033 (Jeep Compass),28,Watch,fuel fell 14% with no trip; high idle time (88 h in 30 days),Review for fuel loss or siphoning
+V008 (Hyundai Elantra),18,Watch,service overdue (210 days); high idle time (75 h in 30 days),Book maintenance
+V036 (Nissan Rogue),16,Watch,2 active warning code(s),Schedule inspection before next rental
